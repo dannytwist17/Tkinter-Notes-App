@@ -28,3 +28,7 @@ All notes are stored locally in a `notes.json` file, so your data is preserved b
 1. **Clone this repository**  
    ```bash
    git clone https://github.com/dannytwist17/notes-app.git
+## 🧑‍💻 Author
+**Musa Adam**  
+Part of a **2-week coding challenge**.  
+GitHub: [dannytwist17](https://github.com/dannytwist17)
